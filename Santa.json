@@ -20,16 +20,16 @@
       "ApplovinInterstitial":"",
       "ApplovinBanner":"",
 	    
-      "MaxInterstitial":"",
-      "MaxBanner":"",
-      "MaxNative" : "",
+      "MaxInterstitial":"0fb0c070571acf91",
+      "MaxBanner":"64ac88dedc7b4ea2",
+      "MaxNative" : "d741262113abce96",
 
       "AdsCount" : "3",  
       "IronKey" : "",
           
       "ActiveApp" : "yes",
      
-      "Switch":"unity"
+      "Switch":"max"
 	  
  
     }
