@@ -24,9 +24,8 @@
       "MaxBanner":"4cb23d0555bca4fd",
       "MaxNative" : "a4208d91e7b0f102",
 
-      "AdsCount" : "3",  
-      "IronKey" : "",
-          
+      "IronKey" : "170e09a55",
+       "AdsCount" : "3",  
       "ActiveApp" : "yes",
      
       "Switch":"unity"
